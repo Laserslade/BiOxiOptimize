@@ -4,10 +4,13 @@ import numpy as np
 
 
 """
-PROJECT: Biofuel Optimization via Genetic Algorithm (GA)
-GOAL: Identify the cost-effective blend of FAMEs and BHT that meets
-      EN 14214 stability standards (>8h) and cold-flow constraints.
-LOGIC: Uses a non-linear Kinetic Synergy Module to model BHT saturation.
+PROJECT: BiOxiOptimize - Biofuel Optimization via Genetic Algorithm (GA)
+AUTHOR:  Satya Thavanesh Yalla
+YEAR:    2026
+GOAL:    Identify the cost-effective blend of FAMEs and BHT that meets
+         EN 14214 stability standards (>8h) and cold-flow constraints.
+LOGIC:   Uses a non-linear Kinetic Synergy Module to model BHT saturation.
+LICENSE: MIT
 """
 
 
@@ -153,4 +156,5 @@ ax2.grid(True, linestyle='--', alpha=0.6)
 
 
 plt.tight_layout()
+
 plt.show()
