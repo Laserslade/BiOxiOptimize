@@ -5,7 +5,8 @@ This is a project revolving aroung using a multi-objective genetic algorithm to 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Field: Chemical Engineering](https://img.shields.io/badge/Field-Chemical%20Engineering-orange)](https://en.wikipedia.org/wiki/Chemical_engineering)
-[![Standard: EN_14214](https://www.en-standard.eu/bs-en-14214-2012-a2-2019-liquid-petroleum-products-fatty-acid-methyl-esters-fame-for-use-in-diesel-engines-and-heating-applications-requirements-and-test-methods/)
+[![Standard: EN_14214:2012+A2:2019](https://img.shields.io/badge/Standard-EN%2014214%3A2019-green)](https://www.en-standard.eu/bs-en-14214-2012-a2-2019-liquid-petroleum-products-fatty-acid-methyl-esters-fame-for-use-in-diesel-engines-and-heating-applications-requirements-and-test-methods/)
+
 
 ## Overview
 **BiOxiOptimize** is a computational research framework designed to optimize biofuel blends while bypassing expensive and resource-intensive "wet-lab" experimentation. While traditional linear models fail to account for the physical realities of chemical additives, this engine utilizes **Michaelis-Menten kinetics** to simulate the saturation points of antioxidants.
